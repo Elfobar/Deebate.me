@@ -2,10 +2,6 @@
 
 ```bash
 # Clone repository
-git clone git@git.chalmers.se:courses/dit342/group-00-web.git
-
-# Change into the directory
-cd group-00-web
 
 # Setup backend
 cd server && npm install
