@@ -1,4 +1,4 @@
-# Click to browse a deployed version of the application [deebate.me](https://www.deebate.me/login)
+# Click to browse a deployed version of the application -> [deebate.me](https://www.deebate.me/login)
 
 ## Getting started
 
